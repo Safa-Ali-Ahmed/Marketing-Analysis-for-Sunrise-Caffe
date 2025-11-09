@@ -3,7 +3,7 @@
 ## 📋 Project Overview  
 This Power BI project analyzes the performance of **Sunrise Caffè**, a local café known for its **breakfast items and coffee**, which relies on **seasonal promotions** and **social media marketing** to drive customer traffic.  
 
-The goal is to evaluate how marketing channels, seasonal campaigns, and customer behavior contribute to overall sales, profit, and return on ad spend — providing actionable insights to guide future strategies.  
+The goal is to evaluate how marketing channels, seasonal campaigns, and customer behavior contribute to overall sales, profit, and return on ad spend providing actionable insights to guide future strategies.  
 
 ---
 
